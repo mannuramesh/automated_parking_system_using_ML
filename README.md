@@ -12,3 +12,8 @@ Its an amazing applicataion, which reads the character on number plate, and prin
 
 
 OpenCV is a good library for real world object detection, but its not efficient, it needs a better library like tensorflow, YOLO libraries and heavily trained datasets for achieving higher accuracy upto 98%
+
+tools used:-
+python version: 3.11.5
+tessaract: latest version for windows on web
+IDE: pyChram
